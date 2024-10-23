@@ -1,0 +1,44 @@
+---
+import ExperienceItem from "./ExperienceItem.astro";
+const EXPERIENCIE = [
+  {
+    date: "Actualmente...",
+    title: "Frontend Developer and Product Owner",
+    company: "Netsy Ai",
+    description:
+      "Creación de toda la documentación del proyecto, incluyendo los requisitos funcionales. Asumiendo el rol de Product Owner y Frontend Developer, desarrollé habilidades de análisis de requisitos, documentación técnica, comunicación efectiva con equipos y gestión de proyectos.",
+    link: "https://netsy.ai",
+  },
+  {
+    date: "Mayo 2024",
+    title: "Curso de React.js",
+    company: "Platzi",
+    description:
+      "Aprendí a desarrollar aplicaciones frontend con React, utilizando componentes, hooks, y la gestión de estado para crear interfaces interactivas y dinámicas.",
+  },
+  {
+    date: "Abril 2024",
+    title: "Curso de Desarrollo de Chatbots con OpenAI",
+    company: "Platzi",
+    description:
+      "Me especialicé en la creación de chatbots inteligentes usando la API de OpenAI, integrando respuestas automáticas basadas en inteligencia artificial.",
+  },
+  {
+    date: "Enero 2023",
+    title: "Certificación SCRUM",
+    company: "CertiProf",
+    description:
+      "Adquirí conocimientos sobre la metodología SCRUM, mejorando mis habilidades en la gestión ágil de proyectos y coordinación de equipos de desarrollo.",
+  },
+];
+---
+
+<ol class="relative mt-16">
+  {
+    EXPERIENCIE.map((experiencie) => (
+      <li class="">
+        <ExperienceItem {...experiencie} />
+      </li>
+    ))
+  }
+</ol>

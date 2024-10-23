@@ -1,22 +1,27 @@
-## VIDEO COMPLETO EN YOUTUBE
-https://youtu.be/HMbzJaBi4OU
+# 👨🏻‍💻 Porfolio para programadores y desarrolladores
 
-## Getting Started
+<div align="center">
+<a href="https://porfolio.dev/">
+<img src="./public/porfolio.webp">
+</a>
+<p></p>
+</div>
 
-First, run the development server:
+<div align="center">
 
-```bash
-npm install
-npm run dev
-```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Astro Badge](https://img.shields.io/badge/Astro-FF3E00?logo=astro&logoColor=fff&style=flat)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/midudev/porfolio.dev)
+![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/porfolio.dev)
+![GitHub forks](https://img.shields.io/github/forks/midudev/porfolio.dev)
+![GitHub issues](https://img.shields.io/github/issues/midudev/porfolio.dev)
 
-<img width="1680" alt="Screenshot 2024-02-12 at 16 24 45" src="https://github.com/ratasi/landing-page-particles/assets/16082370/ad4315fe-c97f-4788-b1b5-5117836779ae">
+</div>
 
-<img width="1680" alt="Screenshot 2024-02-12 at 16 26 28" src="https://github.com/ratasi/landing-page-particles/assets/16082370/8fbd1765-1255-4f3d-91a8-46de04bfd055">
+## 🫂 Contribuidores
 
-<img width="1680" alt="Screenshot 2024-02-12 at 16 49 37" src="https://github.com/ratasi/landing-page-particles/assets/16082370/38827044-a2f4-455c-a9a7-987dda752c9e">
+<a href="https://github.com/midudev/porfolio.dev/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=midudev/porfolio.dev" />
+</a>
 
-<img width="1678" alt="Screenshot 2024-02-12 at 16 33 26" src="https://github.com/ratasi/landing-page-particles/assets/16082370/fa7cf285-b091-4811-b464-db63c3b52c72">
-
-<img width="1680" alt="Screenshot 2024-02-12 at 16 49 45" src="https://github.com/ratasi/landing-page-particles/assets/16082370/54aa5cca-913c-444e-8495-1007e5630aa7">
+<p></p>
