@@ -7,4 +7,4 @@ import robotsTxt from "astro-robots-txt"
 export default defineConfig({
   integrations: [tailwind(), robotsTxt()],
   site: 'https://danro3.github.io',
-  base:"/danro"})
+  base:"danro"})
